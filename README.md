@@ -8,11 +8,11 @@ Follow the instruction below by running the commands in your terminal to create 
 
 ## Installation
 
-Install [arkade](https://get-arkade.dev), the open-source Kubernetes marketplace:
+Install [arkade](https://arkade.dev), the open-source Kubernetes marketplace:
 
 ```bash
 # Have arkade move itself into /usr/local/bin/
-curl -sLS https://dl.get-arkade.dev | sudo sh
+curl -sLS https://get.arkade.dev | sudo sh
 ```
 
 Install [Minio](https://min.io/) and [OpenFaaS](https://www.openfaas.com/) to your Kubernetes cluster:
